@@ -1,0 +1,10 @@
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\bin\Debug\CLIENT.exe.config
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\bin\Debug\CLIENT.exe
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\bin\Debug\CLIENT.pdb
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\obj\Debug\CLIENT.Properties.Resources.resources
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\obj\Debug\CLIENT.csproj.GenerateResource.cache
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\obj\Debug\CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\obj\Debug\CLIENT.exe
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\obj\Debug\CLIENT.pdb
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\obj\Debug\CLIENT.csproj.AssemblyReference.cache
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\CLIENT\obj\Debug\CLIENT.GroupForm.resources
