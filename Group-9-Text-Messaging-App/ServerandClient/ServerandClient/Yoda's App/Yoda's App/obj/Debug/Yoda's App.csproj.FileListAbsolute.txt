@@ -1,0 +1,18 @@
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\bin\Debug\Yoda's App.exe.config
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\bin\Debug\Yoda's App.exe
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\bin\Debug\Yoda's App.pdb
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\obj\Debug\Yoda's App.csproj.AssemblyReference.cache
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\obj\Debug\Yoda_s_App.Properties.Resources.resources
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\obj\Debug\Yoda's App.csproj.GenerateResource.cache
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\obj\Debug\Yoda's App.csproj.CoreCompileInputs.cache
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\obj\Debug\Yoda's App.exe
+C:\Users\Magan\Documents\CMPG315\Project Shandis\Yoda's App\Yoda's App\obj\Debug\Yoda's App.pdb
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\bin\Debug\Yoda's App.exe.config
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\bin\Debug\Yoda's App.exe
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\bin\Debug\Yoda's App.pdb
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\obj\Debug\Yoda's App.csproj.AssemblyReference.cache
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\obj\Debug\Yoda_s_App.Properties.Resources.resources
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\obj\Debug\Yoda's App.csproj.GenerateResource.cache
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\obj\Debug\Yoda's App.csproj.CoreCompileInputs.cache
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\obj\Debug\Yoda's App.exe
+C:\Users\PC\Videos\Group-9-Text-Messaging-App\ServerandClient\ServerandClient\Yoda's App\Yoda's App\obj\Debug\Yoda's App.pdb
